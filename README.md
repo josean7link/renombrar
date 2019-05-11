@@ -1,1 +1,2 @@
-# Script Python para renombrar archivos
+# Script Python
+Para renombrar archivos.
